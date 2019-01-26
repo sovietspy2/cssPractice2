@@ -6,5 +6,5 @@
         {"src": "*.png", "use": "@now/static"},
         {"src": "*.jpg", "use": "@now/static"},
 		{ "src": "styles.css", "use": "@now/html-minifier" }
-  	],
+  	]
   }
